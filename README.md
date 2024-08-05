@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there! I'm **Ashish Kumar Sahu**, a final-year B.Tech Computer Science student at Vellore Institute of Technology, specializing in Information Security. My passion lies in leveraging technology to solve complex problems and drive innovation, especially in financial technology. <br><br>### I am currently working on<br><br>🌱 **GreenGreenary** - Your ultimate plant and gardening marketplace, built with HTML, CSS, and JavaScript. I'm enhancing it with features like user authentication, a shopping cart, and a plant care guide section.<br><br>🗺️ **Map Navigator** - A Java-based application for managing and visualizing a network of geographic coordinates, featuring Dijkstra's algorithm for shortest pathfinding.<br><br>### I am looking to collaborate on<br><br>🤝 Projects related to web development, AI & machine learning, and financial technology innovations. I'm particularly interested in collaborating on projects that involve data analysis, automation, and creating impactful user experiences.<br><br>### I am looking for help with<br><br>🛠️ Integrating more advanced backend systems into my current projects, specifically focusing on improving database management, security protocols, and cloud-based solutions.<br><br>### I am currently learning<br><br>📚 Advanced Java programming techniques, distributed systems, and the intricacies of AI and machine learning frameworks such as TensorFlow and scikit-learn.<br><br>### Ask about me<br><br>💬 Feel free to ask me about my experiences as a Java Developer Intern, my journey through various tech projects, or how I balance my academic and project work. I'm always excited to share insights and learn from others!<br><br>### Fun fact<br><br>🎵 I love exploring new music genres, and I have a knack for picking up new instruments quickly. When I'm not coding, you can find me hiking, experimenting with photography, or diving into the latest trends in financial technology.<br><br><br>Let's build something amazing together! 🚀
 
-<!--
-**DeCharlie02/DeCharlie02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeCharlie02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DeCharlie02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeCharlie02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=DeCharlie02&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
